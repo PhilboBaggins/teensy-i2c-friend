@@ -4,7 +4,7 @@
   "name": "Teensy I2C friend",
   "content": "Breaks out the I2C pins on your Teensy 3.x & LC boards to make prototyping easier",
   "created_at": "2021-02-12 18:33:26",
-  "updated_at": "2022-02-05 06:17:26",
+  "updated_at": "2022-02-05 09:54:46",
   "stick": "",
   "documents": [
     {
@@ -157,11 +157,11 @@
           }
         ]
       ],
-      "updateTime": 1644002008,
+      "updateTime": 1644014869,
       "createTime": 1613115277,
       "histories": [],
       "created_at": "2021-02-12 18:34:37",
-      "updated_at": "2022-02-05 06:13:28"
+      "updated_at": "2022-02-05 09:47:49"
     },
     {
       "uuid": "d6daeb0f8a22598d340de5ef083771ab",
@@ -182,16 +182,16 @@
         "9ba01757d3ff456f85710d294493ecaa": 1
       },
       "BOM": [],
-      "updateTime": 1644002246,
+      "updateTime": 1644015286,
       "createTime": 1613115625,
       "histories": [],
       "created_at": "2021-02-12 18:40:25",
-      "updated_at": "2022-02-05 06:17:26"
+      "updated_at": "2022-02-05 09:54:46"
     }
   ],
   "sort": [],
   "title": "Teensy I2C friend",
   "foldername": "Teensy I2C friend",
   "schfilename": "Teensy I2C friend.json",
-  "schfilemtime": 1644002008420
+  "schfilemtime": 1644014869882
 }
