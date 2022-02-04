@@ -1,0 +1,197 @@
+{
+  "uuid": "2ba1eab879c8c07d32c73606d1555207",
+  "path": "Offline/Teensy%20I2C%20friend",
+  "name": "Teensy I2C friend",
+  "content": "Breaks out the I2C pins on your Teensy 3.x & LC boards to make prototyping easier",
+  "created_at": "2021-02-12 18:33:26",
+  "updated_at": "2022-02-05 06:17:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8c9fad04e33aaff1f1ab2103d7a2a861",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b40c8b6197714768b8c16b3652b59497": 2,
+        "57d040fe8c0744f382182fceee0e9980": 2,
+        "ed9eb2faffb34286820a54a14e9e9e24": 6,
+        "ba1f207f2c0447edbd5beb657b435022": 2,
+        "f5b1d9403e49471cab43bc5a1bec336f": 2,
+        "6387eeb073c345b6a704cdaac8c3cba9": 1,
+        "b5337f8165e54f19870673d01a594536": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "JST-SH-4",
+          2,
+          "JST-SH-4-RA",
+          "J1,J2",
+          {
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "SM04B-SRSS-TB(LF)(SN)",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "455-1804-1-ND",
+            "puuid": "33e32986840542afbaec264ecb3a839a",
+            "uuid": "b40c8b6197714768b8c16b3652b59497"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J3,J4",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "LED-0805_G",
+          2,
+          "LED0805_GREEN",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer": "国星光电",
+            "BOM_Manufacturer Part": "NCD0805G1",
+            "BOM_Supplier Part": "C84260",
+            "BOM_Supplier": "",
+            "puuid": "df7b9c1c92a741e3a4e90f224547567e",
+            "uuid": "ba1f207f2c0447edbd5beb657b435022"
+          }
+        ],
+        [
+          "BSP89,115",
+          2,
+          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
+          "Q1,Q2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C549747",
+            "BOM_Manufacturer": "Nexperia(安世)",
+            "BOM_Manufacturer Part": "BSP89,115",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4ca399a3887148eeab92cd3a98a855b3",
+            "uuid": "b5337f8165e54f19870673d01a594536"
+          }
+        ],
+        [
+          "150",
+          1,
+          "R0805",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "769626f169ec49d9867bc27eb696b6b9",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "4.7k",
+          4,
+          "R0805",
+          "R2,R3,R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "769626f169ec49d9867bc27eb696b6b9",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "330",
+          1,
+          "R0805",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "769626f169ec49d9867bc27eb696b6b9",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "SS-12F44-G5",
+          2,
+          "SW-TH_SS-12F44-G5",
+          "SW1,SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136718",
+            "BOM_Manufacturer": "Rectangular Connectors - Contacts",
+            "BOM_Manufacturer Part": "SS-12F44-G5",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "19c04607810e48e2ab55c534db107ddf",
+            "uuid": "57d040fe8c0744f382182fceee0e9980"
+          }
+        ],
+        [
+          "TEENSYLC",
+          1,
+          "TEENSYLC",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9ba01757d3ff456f85710d294493ecaa",
+            "uuid": "6387eeb073c345b6a704cdaac8c3cba9"
+          }
+        ]
+      ],
+      "updateTime": 1644002008,
+      "createTime": 1613115277,
+      "histories": [],
+      "created_at": "2021-02-12 18:34:37",
+      "updated_at": "2022-02-05 06:13:28"
+    },
+    {
+      "uuid": "d6daeb0f8a22598d340de5ef083771ab",
+      "puuid": "2ba1eab879c8c07d32c73606d1555207",
+      "title": "PCB_2021-02-12_18-40-25",
+      "filename": "PCB_2021-02-12_18-40-25.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "769626f169ec49d9867bc27eb696b6b9": 6,
+        "33e32986840542afbaec264ecb3a839a": 2,
+        "282f7786cb6144d097ae00194c3e3fb3": 2,
+        "df7b9c1c92a741e3a4e90f224547567e": 2,
+        "4ca399a3887148eeab92cd3a98a855b3": 2,
+        "19c04607810e48e2ab55c534db107ddf": 2,
+        "9ba01757d3ff456f85710d294493ecaa": 1
+      },
+      "BOM": [],
+      "updateTime": 1644002246,
+      "createTime": 1613115625,
+      "histories": [],
+      "created_at": "2021-02-12 18:40:25",
+      "updated_at": "2022-02-05 06:17:26"
+    }
+  ],
+  "sort": [],
+  "title": "Teensy I2C friend",
+  "foldername": "Teensy I2C friend",
+  "schfilename": "Teensy I2C friend.json",
+  "schfilemtime": 1644002008420
+}
